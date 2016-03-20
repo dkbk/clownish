@@ -12,8 +12,8 @@ Clownish は Stockfish 7 をベースに将棋依存部分を実装した 64bitO
 
 　Stockfish  : Tord Romstad 様、Marco Costalba 様、Joona Kiiski 様、Gary Linscott 様、
 
-実装の参考にさせて頂いた
-　NanohaMini : 川端一之 様、
-　Usapyon2   : 池泰弘 様、
+実装の参考にさせて頂いた  
+　NanohaMini : 川端一之 様、  
+　Usapyon2   : 池泰弘 様、  
 
 に感謝します。
